@@ -1,19 +1,20 @@
 # React-Azure-Wrapper
 Goal is to utilize azure graph api to build a material react ui with power user MSP specific features.
-├─ src/
-│   ├─ components/
-│   │   ├─ LoginPage.tsx
-│   │   └─ TextFieldFactory.ts
-│   ├─ App.tsx
-│   ├─ index.tsx
-│   └─ singleton.ts
-├─ public/
-│   └─ index.html
-├─ .dockerignore
-├─ Dockerfile
-├─ docker-compose.yml
-├─ package.json
-└─ tsconfig.json
+
+<br>├─ src
+<br>│   ├─ components/
+<br>│   │   ├─ LoginPage.tsx
+<br>│   │   └─ TextFieldFactory.ts
+<br>│   ├─ App.tsx
+<br>│   ├─ index.tsx
+<br>│   └─ singleton.ts
+<br>├─ public/
+<br>│   └─ index.html
+<br>├─ .dockerignore
+<br>├─ Dockerfile
+<br>├─ docker-compose.yml
+<br>├─ package.json
+<br>└─ tsconfig.json
 # My TypeScript Project
 
 Welcome to my TypeScript project! This project demonstrates my skills and expertise as a software engineer, showcasing a strong understanding of TypeScript, React, Material UI, design patterns, testing, and containerization using Docker and Docker Compose. I have carefully crafted this project to be a valuable asset and resource to any company.
@@ -47,5 +48,5 @@ Continuous Integration is set up with GitHub Actions, utilizing a self-hosted ru
 4. Run `docker-compose up` to deploy the application.
 5. Access the application at http://localhost:3000.
 
-By choosing me as a resource for your company, you are investing in a skilled and dedicated engineer who understands the importance of best practices, design patterns, testing, and deployment strategies. I am excited to bring my expertise to your team and contribute to your organization's success.
+I am dedicated engineer who understands the importance of best practices, design patterns, testing, and deployment strategies. I am excited to bring my expertise to your team and contribute to your organization's success.
 
